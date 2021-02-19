@@ -7,6 +7,9 @@
 *.obj
 *.elf
 
+# Test files
+*.gc*
+
 # Linker output
 *.ilk
 *.map
